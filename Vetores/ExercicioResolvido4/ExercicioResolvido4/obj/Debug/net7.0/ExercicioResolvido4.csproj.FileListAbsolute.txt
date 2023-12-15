@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\bin\Debug\net7.0\ExercicioResolvido4.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\bin\Debug\net7.0\ExercicioResolvido4.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\bin\Debug\net7.0\ExercicioResolvido4.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\bin\Debug\net7.0\ExercicioResolvido4.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\bin\Debug\net7.0\ExercicioResolvido4.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\refint\ExercicioResolvido4.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ExercicioResolvido4.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvido4\ExercicioResolvido4\obj\Debug\net7.0\ref\ExercicioResolvido4.dll

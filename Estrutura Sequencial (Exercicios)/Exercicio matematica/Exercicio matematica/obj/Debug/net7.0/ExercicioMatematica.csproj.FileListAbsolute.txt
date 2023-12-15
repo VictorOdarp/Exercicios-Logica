@@ -1,0 +1,15 @@
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\bin\Debug\net7.0\ExercicioMatematica.exe
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\bin\Debug\net7.0\ExercicioMatematica.deps.json
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\bin\Debug\net7.0\ExercicioMatematica.runtimeconfig.json
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\bin\Debug\net7.0\ExercicioMatematica.dll
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\bin\Debug\net7.0\ExercicioMatematica.pdb
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.csproj.AssemblyReference.cache
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.AssemblyInfoInputs.cache
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.AssemblyInfo.cs
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.csproj.CoreCompileInputs.cache
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.dll
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\refint\ExercicioMatematica.dll
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.pdb
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ExercicioMatematica.genruntimeconfig.cache
+C:\Projeto Microsoft Studio\Exercicio matematica\Exercicio matematica\obj\Debug\net7.0\ref\ExercicioMatematica.dll

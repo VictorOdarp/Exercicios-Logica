@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\bin\Debug\net7.0\ExercicioProposto6.exe
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\bin\Debug\net7.0\ExercicioProposto6.deps.json
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\bin\Debug\net7.0\ExercicioProposto6.runtimeconfig.json
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\bin\Debug\net7.0\ExercicioProposto6.dll
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\bin\Debug\net7.0\ExercicioProposto6.pdb
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.dll
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\refint\ExercicioProposto6.dll
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.pdb
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ExercicioProposto6.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Matrizes\ExercicioProposto6\ExercicioProposto6\obj\Debug\net7.0\ref\ExercicioProposto6.dll

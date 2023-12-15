@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\bin\Debug\net7.0\ExercicioProposto8.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\bin\Debug\net7.0\ExercicioProposto8.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\bin\Debug\net7.0\ExercicioProposto8.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\bin\Debug\net7.0\ExercicioProposto8.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\bin\Debug\net7.0\ExercicioProposto8.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\refint\ExercicioProposto8.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ExercicioProposto8.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto8\ExercicioProposto8\obj\Debug\net7.0\ref\ExercicioProposto8.dll

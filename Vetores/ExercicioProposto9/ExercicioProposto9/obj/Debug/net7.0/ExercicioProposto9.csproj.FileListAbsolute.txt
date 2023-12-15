@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\bin\Debug\net7.0\ExercicioProposto9.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\bin\Debug\net7.0\ExercicioProposto9.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\bin\Debug\net7.0\ExercicioProposto9.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\bin\Debug\net7.0\ExercicioProposto9.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\bin\Debug\net7.0\ExercicioProposto9.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\refint\ExercicioProposto9.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ExercicioProposto9.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioProposto9\ExercicioProposto9\obj\Debug\net7.0\ref\ExercicioProposto9.dll

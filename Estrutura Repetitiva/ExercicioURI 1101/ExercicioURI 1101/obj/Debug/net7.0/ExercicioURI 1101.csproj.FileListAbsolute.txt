@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\bin\Debug\net7.0\ExercicioURI 1101.exe
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\bin\Debug\net7.0\ExercicioURI 1101.deps.json
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\bin\Debug\net7.0\ExercicioURI 1101.runtimeconfig.json
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\bin\Debug\net7.0\ExercicioURI 1101.dll
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\bin\Debug\net7.0\ExercicioURI 1101.pdb
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.dll
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\refint\ExercicioURI 1101.dll
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.pdb
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ExercicioURI 1101.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Estrutura Repetitiva\ExercicioURI 1101\ExercicioURI 1101\obj\Debug\net7.0\ref\ExercicioURI 1101.dll

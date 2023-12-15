@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\bin\Debug\net7.0\ExercicioResolvidoVetores.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\bin\Debug\net7.0\ExercicioResolvidoVetores.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\bin\Debug\net7.0\ExercicioResolvidoVetores.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\bin\Debug\net7.0\ExercicioResolvidoVetores.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\bin\Debug\net7.0\ExercicioResolvidoVetores.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\refint\ExercicioResolvidoVetores.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ExercicioResolvidoVetores.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioResolvidoVetores\ExercicioResolvidoVetores\obj\Debug\net7.0\ref\ExercicioResolvidoVetores.dll

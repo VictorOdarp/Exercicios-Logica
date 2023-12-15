@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\bin\Debug\net7.0\ExercicioPropostos2.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\bin\Debug\net7.0\ExercicioPropostos2.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\bin\Debug\net7.0\ExercicioPropostos2.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\bin\Debug\net7.0\ExercicioPropostos2.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\bin\Debug\net7.0\ExercicioPropostos2.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\refint\ExercicioPropostos2.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ExercicioPropostos2.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioPropostos2\ExercicioPropostos2\obj\Debug\net7.0\ref\ExercicioPropostos2.dll

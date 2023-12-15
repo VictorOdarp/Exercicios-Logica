@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\bin\Debug\net7.0\ExercicioVetor.exe
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\bin\Debug\net7.0\ExercicioVetor.deps.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\bin\Debug\net7.0\ExercicioVetor.runtimeconfig.json
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\bin\Debug\net7.0\ExercicioVetor.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\bin\Debug\net7.0\ExercicioVetor.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\refint\ExercicioVetor.dll
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.pdb
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ExercicioVetor.genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Vetores\ExercicioVetor\ExercicioVetor\obj\Debug\net7.0\ref\ExercicioVetor.dll

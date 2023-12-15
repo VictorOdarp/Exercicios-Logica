@@ -1,0 +1,30 @@
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Projeto Microsoft Studio\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Projeto Microsoft Studio\Vetor em frases\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll

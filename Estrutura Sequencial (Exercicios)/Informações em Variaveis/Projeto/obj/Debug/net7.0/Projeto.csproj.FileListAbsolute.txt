@@ -1,0 +1,15 @@
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\bin\Debug\net7.0\Projeto.exe
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\bin\Debug\net7.0\Projeto.deps.json
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\bin\Debug\net7.0\Projeto.runtimeconfig.json
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\bin\Debug\net7.0\Projeto.dll
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\bin\Debug\net7.0\Projeto.pdb
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.csproj.AssemblyReference.cache
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.dll
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\refint\Projeto.dll
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.pdb
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\Projeto.genruntimeconfig.cache
+C:\Projeto Microsoft Studio\Informações em Variaveis\Projeto\obj\Debug\net7.0\ref\Projeto.dll

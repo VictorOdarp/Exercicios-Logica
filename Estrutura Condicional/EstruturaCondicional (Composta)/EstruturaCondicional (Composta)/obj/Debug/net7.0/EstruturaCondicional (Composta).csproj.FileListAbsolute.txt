@@ -1,0 +1,15 @@
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\bin\Debug\net7.0\EstruturaCondicional (Composta).exe
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\bin\Debug\net7.0\EstruturaCondicional (Composta).deps.json
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\bin\Debug\net7.0\EstruturaCondicional (Composta).runtimeconfig.json
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\bin\Debug\net7.0\EstruturaCondicional (Composta).dll
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\bin\Debug\net7.0\EstruturaCondicional (Composta).pdb
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).csproj.AssemblyReference.cache
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).AssemblyInfoInputs.cache
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).AssemblyInfo.cs
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).csproj.CoreCompileInputs.cache
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).dll
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\refint\EstruturaCondicional (Composta).dll
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).pdb
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\EstruturaCondicional (Composta).genruntimeconfig.cache
+D:\Projeto Microsoft Studio\Estrutura Condicional\EstruturaCondicional (Composta)\EstruturaCondicional (Composta)\obj\Debug\net7.0\ref\EstruturaCondicional (Composta).dll
